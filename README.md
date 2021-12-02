@@ -7,7 +7,7 @@ This collection is stored in an Excel spreadsheet.
 
 ## Content
 
-In this file, you will find 5 sheets:
+In this file, you will find 7 sheets:
 - Summary: gives an overview of retrieved patterns and the taxonomy used to classify them.
 - Papers: lists all the papers studied during the systematic literature review, and if they have been accepted or rejected for the final corpus of papers.
 - Raw patterns collection: lists all the collected patterns from the papers. Those patterns have been classified on different dimensions, and are described using a simplified pattern form.
