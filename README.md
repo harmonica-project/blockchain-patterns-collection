@@ -15,3 +15,6 @@ In this file, you will find 7 sheets:
 - RQ3: identifies the number of proposed patterns from existing software patterns non-related to blockchain technology (eg. GoF patterns).
 - RQ4: contains the application domain and technology addressed by the different papers.
 - QQ: contains the answers attributed to quality questions that evaluates papers on different aspects (check the paper for question details)
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
