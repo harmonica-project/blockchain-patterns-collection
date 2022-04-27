@@ -1,7 +1,5 @@
 # Blockchain pattern collection
 
-__This repository is currently frozen, and only contains the patterns collected during our study. If you want to see the latest pattern collection and what we have done with it, please check the [blockchain-pattern-ontology repository](https://github.com/harmonica-project/blockchain-patterns-ontology).__
-
 This repository contains a collection 160 of blockchain-based software patterns, obtained across 20 academic papers on blockchain-based patterns.
 This collection is stored in an Excel spreadsheet.
 
