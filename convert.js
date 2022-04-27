@@ -12,4 +12,6 @@ const result = excelToJson({
     }
 });
 
-fs.writeFileSync('collection.json', JSON.stringify(result, null, 4));
+const strResult = JSON.stringify(JSON.parse(JSON.stringify(result).replace(/:(\d+)([,\}])/g, ':"$1"$2')), null, 4);
+
+fs.writeFileSync('collection.json', strResult);
