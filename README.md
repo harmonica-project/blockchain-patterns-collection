@@ -19,7 +19,7 @@ A script has been written to generate a JSON version of this knowledge base, reu
 
 ```
 npm install
-npm run
+npm start
 ```
 
 ## Future works

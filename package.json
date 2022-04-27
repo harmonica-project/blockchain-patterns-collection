@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-patterns-collection",
+  "version": "1.0.0",
+  "description": "Blockchain pattern collection and a XLS-to-JSON converter",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmonica-project/blockchain-patterns-collection.git"
+  },
+  "author": "Nicolas Six",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harmonica-project/blockchain-patterns-collection/issues"
+  },
+  "homepage": "https://github.com/harmonica-project/blockchain-patterns-collection#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
