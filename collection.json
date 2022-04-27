@@ -1,7 +1,6 @@
 {
     "Patterns": [
         {
-            "ID": "2",
             "Name": "Transparent Event Log",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -14,7 +13,6 @@
             "Applicability domain (generalized)": "BPM"
         },
         {
-            "ID": "3",
             "Name": "Blockchain BP Engine",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -27,7 +25,6 @@
             "Applicability domain (generalized)": "BPM"
         },
         {
-            "ID": "4",
             "Name": "Smart Contract Activities",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -40,7 +37,6 @@
             "Applicability domain (generalized)": "BPM"
         },
         {
-            "ID": "5",
             "Name": "Blockchain-based reputation system",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -53,7 +49,6 @@
             "Applicability domain (generalized)": "BPM"
         },
         {
-            "ID": "6",
             "Name": "Decentralize business process",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -66,7 +61,6 @@
             "Applicability domain (generalized)": "BPM"
         },
         {
-            "ID": "7",
             "Name": "Key-value store",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -79,7 +73,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "8",
             "Name": "Address mapping",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -92,45 +85,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "10",
-            "Name": "Judge",
-            "Type (from paper)": "Design pattern",
-            "Type (determined)": "Design pattern",
-            "Category": "On-chain pattern",
-            "Subcategory": "Smart-contract pattern",
-            "Subsubcategory": "Contract access control pattern",
-            "Introduced in (paper ID)": "5",
-            "Target (generalized)": "Smart-contract enabled blockchains",
-            "Language (generalized)": "Unspecified",
-            "Applicability domain (generalized)": "General"
-        },
-        {
-            "ID": "11",
-            "Name": "Ticker Tape",
-            "Type (from paper)": "Design pattern",
-            "Type (determined)": "Design pattern",
-            "Category": "On/off-chain interaction pattern",
-            "Subcategory": "Data exchange pattern",
-            "Introduced in (paper ID)": "5",
-            "Target (generalized)": "Smart-contract enabled blockchains",
-            "Language (generalized)": "Unspecified",
-            "Applicability domain (generalized)": "General"
-        },
-        {
-            "ID": "12",
-            "Name": "Vote",
-            "Type (from paper)": "Design pattern",
-            "Type (determined)": "Design pattern",
-            "Category": "On-chain pattern",
-            "Subcategory": "Domain-based pattern",
-            "Subsubcategory": "Multi-domain feature pattern",
-            "Introduced in (paper ID)": "5",
-            "Target (generalized)": "Smart-contract enabled blockchains",
-            "Language (generalized)": "Unspecified",
-            "Applicability domain (generalized)": "General"
-        },
-        {
-            "ID": "14",
             "Name": "Blocklist",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -143,7 +97,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "15",
             "Name": "Announcement",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -156,7 +109,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "16",
             "Name": "Bulletin Board",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -169,7 +121,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "18",
             "Name": "Migration",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -182,7 +133,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "19",
             "Name": "Inter-family communication",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -195,7 +145,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "27",
             "Name": "Randomness",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -208,7 +157,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "28",
             "Name": "Poll",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -221,7 +169,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "32",
             "Name": "Fork check",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -234,7 +181,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "34",
             "Name": "Secure Ether Transfer",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -244,20 +190,19 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "35",
             "Name": "Oracle",
             "Alternative names": "Oracle (Data Provider)",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
             "Category": "On/off-chain interaction pattern",
             "Subcategory": "Data exchange pattern",
+            "Variant": "10, 11, 12",
             "Introduced in (paper ID)": "11, 13, 27, 9",
             "Target (generalized)": "Smart-contract enabled blockchains",
             "Language (generalized)": "Unspecified",
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "37",
             "Name": "State Channel",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -269,7 +214,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "38",
             "Name": "(Off-chain) Contract Registry",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -281,7 +225,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "39",
             "Name": "Data Contract",
             "Alternative names": "Data Segregation",
             "Type (from paper)": "Design pattern",
@@ -295,7 +238,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "40",
             "Name": "Embedded Permission",
             "Alternative names": "Authorization",
             "Type (from paper)": "Design pattern",
@@ -309,7 +251,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "41",
             "Name": "Factory Contract",
             "Alternative names": "Contract Factory, Abstract factory",
             "Type (from paper)": "Design pattern",
@@ -323,7 +264,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "42",
             "Name": "Emergency Stop",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -336,7 +276,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "43",
             "Name": "Mutex",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -349,7 +288,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "44",
             "Name": "Contract Balance Limit",
             "Alternative names": "Balance limit",
             "Type (from paper)": "Design pattern",
@@ -363,7 +301,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "45",
             "Name": "Reverse Oracle",
             "Alternative names": "Reverse Verifier, Anti-Oracle",
             "Type (from paper)": "Design pattern",
@@ -376,7 +313,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "46",
             "Name": "Incentive Execution",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -389,7 +325,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "47",
             "Name": "Commit and Reveal",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -402,7 +337,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "48",
             "Name": "Proxy Contract",
             "Alternative names": "Proxy, Contract Relay, Contract facade",
             "Type (from paper)": "Design pattern",
@@ -416,7 +350,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "49",
             "Name": "Dynamic Binding",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -429,7 +362,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "50",
             "Name": "Flyweight",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -442,7 +374,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "51",
             "Name": "Tight Variable Packing",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -455,19 +386,18 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "54",
             "Name": "Legal and smart-contract pair",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
             "Category": "On/off-chain interaction pattern",
             "Subcategory": "Off-chain storage pattern",
+            "Variant": "111",
             "Introduced in (paper ID)": "13",
             "Target (generalized)": "Smart-contract enabled blockchains",
             "Language (generalized)": "Unspecified",
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "57",
             "Name": "Off-chain data storage",
             "Alternative names": "Hash storage, Off-chain Datastore, Mirror, Content-Addressable Storage, Anchoring to Blockchain",
             "Type (from paper)": "Design pattern",
@@ -480,7 +410,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "59",
             "Name": "Multiple authorization",
             "Alternative names": "Multi-signature",
             "Type (from paper)": "Design pattern",
@@ -488,13 +417,13 @@
             "Category": "On-chain pattern",
             "Subcategory": "Smart-contract pattern",
             "Subsubcategory": "Contract access control pattern",
+            "Variant": "70",
             "Introduced in (paper ID)": "13, 37",
             "Target (generalized)": "Smart-contract enabled blockchains",
             "Language (generalized)": "Unspecified",
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "60",
             "Name": "Off-chain secret enabled dynamic authentication",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -507,7 +436,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "67",
             "Name": "Master & Sub Key",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -519,7 +447,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "68",
             "Name": "Hot & Cold Wallet Storage",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -531,7 +458,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "69",
             "Name": "Key Sharding",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -543,20 +469,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "70",
-            "Name": "Identifier Registry",
-            "Type (from paper)": "Design pattern",
-            "Type (determined)": "Design pattern",
-            "Category": "On-chain pattern",
-            "Subcategory": "Domain-based pattern",
-            "Subsubcategory": "Decentralized identity pattern",
-            "Introduced in (paper ID)": "14",
-            "Target (generalized)": "Smart-contract enabled blockchains",
-            "Language (generalized)": "Unspecified",
-            "Applicability domain (generalized)": "Identity management"
-        },
-        {
-            "ID": "71",
             "Name": "Multiple Registration",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -569,7 +481,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "72",
             "Name": "Bound with Social Media",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -582,7 +493,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "73",
             "Name": "Dual Resolution",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -595,7 +505,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "74",
             "Name": "Delegate List",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -608,7 +517,6 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "75",
             "Name": "Selective Content Generation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -621,33 +529,19 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "76",
             "Name": "Time-Constrained Access",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
             "Category": "On-chain pattern",
             "Subcategory": "Domain-based pattern",
             "Subsubcategory": "Multi-domain feature pattern",
+            "Variant": "73",
             "Introduced in (paper ID)": "14",
             "Target (generalized)": "Smart-contract enabled blockchains",
             "Language (generalized)": "Unspecified",
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "ID": "77",
-            "Name": "One-Off Access",
-            "Type (from paper)": "Design pattern",
-            "Type (determined)": "Design pattern",
-            "Category": "On-chain pattern",
-            "Subcategory": "Domain-based pattern",
-            "Subsubcategory": "Multi-domain feature pattern",
-            "Introduced in (paper ID)": "14",
-            "Target (generalized)": "Smart-contract enabled blockchains",
-            "Language (generalized)": "Unspecified",
-            "Applicability domain (generalized)": "Identity management"
-        },
-        {
-            "ID": "79",
             "Name": "Snapshotting",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -660,7 +554,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "80",
             "Name": "State Aggregation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -673,7 +566,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "81",
             "Name": "Token burning",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -686,7 +578,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "82",
             "Name": "Node Sync",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -699,7 +590,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "83",
             "Name": "Establish Genesis",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -712,7 +602,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "84",
             "Name": "Hard Fork",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -725,7 +614,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "85",
             "Name": "State Initialization",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -738,7 +626,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "86",
             "Name": "Exchange Transfer",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -751,7 +638,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "87",
             "Name": "Transaction Replay",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -764,7 +650,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "88",
             "Name": "Virtual Machine Emulation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -777,7 +662,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "89",
             "Name": "Smart Contract Translation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -790,7 +674,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "90",
             "Name": "Blockchain Security Pattern for Big Data Ecosystems",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -803,7 +686,6 @@
             "Applicability domain (generalized)": "Big Data"
         },
         {
-            "ID": "93",
             "Name": "Event log",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -816,7 +698,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "94",
             "Name": "Limit storage",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -829,7 +710,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "95",
             "Name": "Packing variables",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -839,7 +719,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "96",
             "Name": "Packing booleans",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -849,7 +728,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "97",
             "Name": "Uint* vs Uint256",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -859,7 +737,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "98",
             "Name": "Mapping vs Array",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -869,7 +746,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "99",
             "Name": "Fixed size",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -879,7 +755,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "100",
             "Name": "Default value",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -889,7 +764,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "101",
             "Name": "Minimize on-chain data",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -902,7 +776,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "102",
             "Name": "Explicitely mark external function",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -912,7 +785,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "103",
             "Name": "Limit external calls",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -925,7 +797,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "104",
             "Name": "Internal function calls",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -935,7 +806,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "105",
             "Name": "Fewer functions",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -948,7 +818,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "106",
             "Name": "Use libraries",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -961,7 +830,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "107",
             "Name": "Short circuit",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -971,7 +839,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "108",
             "Name": "Short constant strings",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -984,7 +851,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "109",
             "Name": "Limit modifiers",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -997,7 +863,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "110",
             "Name": "Avoid redundant operations",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1010,7 +875,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "111",
             "Name": "Single-line swap",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -1020,7 +884,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "112",
             "Name": "Write values",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1033,7 +896,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "113",
             "Name": "Freeing storage",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -1043,7 +905,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "114",
             "Name": "Optimizer",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -1053,19 +914,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "115",
-            "Name": "Confidential and pseudo-anonymous contract enforcement",
-            "Type (from paper)": "Design pattern",
-            "Type (determined)": "Design pattern",
-            "Category": "On/off-chain interaction pattern",
-            "Subcategory": "Off-chain storage pattern",
-            "Introduced in (paper ID)": "23",
-            "Target (generalized)": "Smart-contract enabled blockchains",
-            "Language (generalized)": "Unspecified",
-            "Applicability domain (generalized)": "BPM"
-        },
-        {
-            "ID": "116",
             "Name": "Self-Generated Transactions",
             "Type (from paper)": "Architectural pattern",
             "Type (determined)": "Architectural pattern",
@@ -1075,7 +923,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "117",
             "Name": "Self-Confirmed Transactions",
             "Type (from paper)": "Architectural pattern",
             "Type (determined)": "Architectural pattern",
@@ -1085,7 +932,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "118",
             "Name": "Delegated Transactions",
             "Type (from paper)": "Architectural pattern",
             "Type (determined)": "Architectural pattern",
@@ -1095,7 +941,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "120",
             "Name": "Digital Record",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1108,7 +953,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "135",
             "Name": "Encrypting on-chain data",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1121,7 +965,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "137",
             "Name": "Pull payment",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1134,7 +977,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "138",
             "Name": "State machine",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1147,7 +989,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "141",
             "Name": "Ownership",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1160,7 +1001,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "142",
             "Name": "Access Restriction",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1173,7 +1013,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "143",
             "Name": "Mortal",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Idiom",
@@ -1183,7 +1022,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "144",
             "Name": "Automatic Deprecation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1196,7 +1034,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "146",
             "Name": "Satellite",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1209,7 +1046,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "151",
             "Name": "Speed Bump",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1222,7 +1058,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "152",
             "Name": "Rate Limit",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1235,7 +1070,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "161",
             "Name": "Checks-Effect-Interactions",
             "Alternative names": "Checks-Effects-Interaction",
             "Type (from paper)": "Design pattern",
@@ -1249,7 +1083,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "170",
             "Name": "Time Constraint",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1262,7 +1095,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "171",
             "Name": "Termination",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1275,7 +1107,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "172",
             "Name": "Math",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1288,7 +1119,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "177",
             "Name": "Publisher-Subscriber",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1301,7 +1131,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "178",
             "Name": "Tokenisation",
             "Alternative names": "Tokenized, Token",
             "Type (from paper)": "Design pattern",
@@ -1315,7 +1144,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "179",
             "Name": "X-confirmation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1327,7 +1155,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "180",
             "Name": "Contract Registry",
             "Alternative names": "Contract register",
             "Type (from paper)": "Design pattern",
@@ -1341,7 +1168,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "193",
             "Name": "Challenge Response",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1354,7 +1180,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "194",
             "Name": "Off-chain Signatures",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1366,7 +1191,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "196",
             "Name": "Delegated Computation",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1378,7 +1202,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "197",
             "Name": "Low Contract Footprint",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1391,7 +1214,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "202",
             "Name": "Pull-based inbound oracle",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1403,7 +1225,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "203",
             "Name": "Push-based inbound oracle",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1415,7 +1236,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "204",
             "Name": "Pull-based outbound oracle",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1427,7 +1247,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "205",
             "Name": "Push-based outbound oracle",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1439,7 +1258,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "207",
             "Name": "Contract Composer",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1452,7 +1270,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "208",
             "Name": "Contract Decorator",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1465,7 +1282,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "210",
             "Name": "Contract Mediator",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1478,7 +1294,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "211",
             "Name": "Contract Observer",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -1491,7 +1306,6 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "ID": "212",
             "Name": "Hash Secret",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
@@ -3003,7 +2817,7 @@
             "Category": "On-chain pattern",
             "Subcategory": "Domain-based pattern",
             "Subsubcategory (optional)": "Decentralized identity pattern",
-            "Related to": "70",
+            "Related to": "66",
             "Variant of": "55",
             "Benefits from": "66, 138",
             "Target": "Smart-contract enabled blockchains",
