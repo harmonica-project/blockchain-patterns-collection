@@ -1,20 +1,6 @@
 {
     "Patterns": [
         {
-            "ID": "ID",
-            "Name": "Name",
-            "Alternative names": "Alternative names",
-            "Type (from paper)": "Type (from paper)",
-            "Type (determined)": "Type (determined)",
-            "Category": "Category",
-            "Subcategory": "Subcategory",
-            "Subsubcategory": "Subsubcategory",
-            "Introduced in (paper ID)": "Introduced in (paper ID)",
-            "Target (generalized)": "Target (generalized)",
-            "Language (generalized)": "Language (generalized)",
-            "Applicability domain (generalized)": "Applicability domain (generalized)"
-        },
-        {
             "ID": 2,
             "Name": "Transparent Event Log",
             "Type (from paper)": "Design pattern",
@@ -1520,28 +1506,6 @@
     ],
     "Papers": [
         {
-            "ID": "ID",
-            "Title": "Title",
-            "Nb of found patterns": "Nb of found patterns",
-            "Identifier": "Identifier",
-            "Identifier type": "Identifier type",
-            "author": "author",
-            "journal": "journal",
-            "year": "year",
-            "source": "source",
-            "pages": "pages",
-            "volume": "volume",
-            "document_type": "document_type",
-            "url": "url",
-            "affiliation": "affiliation",
-            "author_keywords": "author_keywords",
-            "keywords": "keywords",
-            "publisher": "publisher",
-            "issn": "issn",
-            "language": "language",
-            "note": "note"
-        },
-        {
             "ID": 1,
             "Title": "Research on Charity System Based on Blockchain",
             "Nb of found patterns": 0,
@@ -2266,30 +2230,6 @@
         }
     ],
     "Proposals": [
-        {
-            "ID": "ID",
-            "Name": "Name",
-            "Paper": "Paper",
-            "Context & Problem": "Context & Problem",
-            "Solution": "Solution",
-            "Application examples": "Application examples",
-            "Benefits": "Benefits",
-            "Drawbacks/Liabilities": "Drawbacks/Liabilities",
-            "Type (from paper)": "Type (from paper)",
-            "Type (determined)": "Type (determined)",
-            "Category": "Category",
-            "Subcategory": "Subcategory",
-            "Subsubcategory (optional)": "Subsubcategory (optional)",
-            "Created from": "Created from",
-            "Related to": "Related to",
-            "Variant of": "Variant of",
-            "Requires": "Requires",
-            "Benefits from": "Benefits from",
-            "Based on non-blockchain pattern": "Based on non-blockchain pattern",
-            "Target": "Target",
-            "Language": "Language",
-            "Applicability domain": "Applicability domain"
-        },
         {
             "ID": 1,
             "Name": "Hash Storage",

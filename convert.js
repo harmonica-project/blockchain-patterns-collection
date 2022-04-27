@@ -3,6 +3,9 @@ const fs = require('fs');
 
 const result = excelToJson({
     sourceFile: 'collection.xlsx',
+    header:{
+        rows: 1
+    },
     sheets: ['Patterns', 'Papers', 'Proposals'],
     columnToKey: {
         '*': '{{columnHeader}}'
