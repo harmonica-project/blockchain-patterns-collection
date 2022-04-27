@@ -1506,19 +1506,6 @@
     ],
     "Papers": [
         {
-            "ID": 1,
-            "Title": "Research on Charity System Based on Blockchain",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1088/1757-899X/768/7/072020",
-            "author": "Hu, Baokun and Li, He",
-            "journal": "IOP Conference Series: Materials Science and Engineering",
-            "year": 2020,
-            "source": "Scopus",
-            "volume": 768,
-            "document_type": "article",
-            "issn": "1757899X"
-        },
-        {
             "ID": 2,
             "Title": "Silver Bullet for All Trust Issues? Blockchain-Based Trust Patterns for Collaborative Business Processes",
             "Nb of found patterns": 6,
@@ -1533,35 +1520,6 @@
             "document_type": "article",
             "keywords": "Blockchain,Business process management,Trust",
             "issn": 18651356
-        },
-        {
-            "ID": 3,
-            "Title": "Modeling of Smart Contracts in Blockchain Solution for Renewable Energy Grid",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1007/978-3-030-45093-9_61",
-            "author": "Gorski, Tomasz and Bednarski, Jakub",
-            "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-            "year": 2020,
-            "source": "Scopus",
-            "pages": "507--514",
-            "volume": "12013 LNCS",
-            "document_type": "article",
-            "keywords": "Architectural views model 1+5,Blockchain,Distributed ledger,Smart contract,Software architecture",
-            "issn": 16113349
-        },
-        {
-            "ID": 4,
-            "Title": "Building Executable Secure Design Models for Smart Contracts with Formal Methods",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1007/978-3-030-43725-1_12",
-            "author": "Xu, Weifeng and Fink, Glenn A.",
-            "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-            "year": 2020,
-            "source": "Scopus",
-            "pages": "154--169",
-            "volume": "11599 LNCS",
-            "document_type": "article",
-            "issn": 16113349
         },
         {
             "ID": 5,
@@ -1595,36 +1553,6 @@
             "issn": 16113349
         },
         {
-            "ID": 7,
-            "Title": "Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1007/978-3-662-58387-6_28",
-            "author": "Mavridou, Anastasia and Laszka, Aron",
-            "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
-            "year": 2018,
-            "source": "Scopus",
-            "pages": "523--540",
-            "volume": "10957 LNCS",
-            "document_type": "article",
-            "keywords": "Automatic code generation,Design patterns,Ethereum,Finite state machine,Security,Smart contract,Solidity",
-            "issn": 16113349
-        },
-        {
-            "ID": 8,
-            "Title": "Blockchain Application Development Techniques",
-            "Nb of found patterns": 0,
-            "Identifier": "10.13328/j.cnki.jos.005232",
-            "author": "Tsai, Wei Tek and Yu, Lian and Wang, Rong and Liu, Na and Deng, En Yan",
-            "journal": "Ruan Jian Xue Bao/Journal of Software",
-            "year": 2017,
-            "source": "Scopus",
-            "pages": "1474--1487",
-            "volume": 28,
-            "document_type": "article",
-            "keywords": "ABC/TBC,Blockchain,Blockchain application requirements,Chaincode",
-            "issn": 10009825
-        },
-        {
             "ID": 9,
             "Title": "An Empirical analysis of smart contracts: Platforms, applications, and design patterns",
             "Nb of found patterns": 9,
@@ -1640,15 +1568,6 @@
             "issn": 16113349
         },
         {
-            "ID": 10,
-            "Title": "CHASM: A Blockchain Design Pattern",
-            "Nb of found patterns": 0,
-            "author": "Sengupta, Arijit and Subramanian, Hemang",
-            "year": 2020,
-            "source": "Scopus",
-            "document_type": "article"
-        },
-        {
             "ID": 11,
             "Title": "Emerging Design Patterns for Blockchain Applications",
             "Nb of found patterns": 19,
@@ -1657,18 +1576,6 @@
             "author": "Rajasekar, Vijay and Sondhi, Shiv and Saad, Sherif and Mohammed, Shady",
             "year": 2020,
             "source": "Scopus",
-            "document_type": "article"
-        },
-        {
-            "ID": 12,
-            "Title": "Co-creation with Customers to Accelerate Digital Innovation",
-            "Nb of found patterns": 0,
-            "author": "Hara, Hideki and Echigo, Shinya and Ota, Tomonori and Komatsu, Ryota and Matsumoto, Satoshi",
-            "journal": "FUJITSU SCIENTIFIC \\& TECHNICAL JOURNAL",
-            "year": 2018,
-            "source": "Scopus",
-            "pages": "47--54",
-            "volume": 54,
             "document_type": "article"
         },
         {
@@ -1714,19 +1621,6 @@
             "publisher": "Association for Computing Machinery"
         },
         {
-            "ID": 16,
-            "Title": "Towards Swarm Intelligence Architectural Patterns: An IoT-Big Data-AI-Blockchain Convergence Perspective",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1145/3372938.3372962",
-            "author": "Hibti, Meryem and Baïna, Karim and Benatallah, Boualem",
-            "year": 2019,
-            "source": "ACM Digital Library",
-            "document_type": "inproceedings",
-            "url": "https://doi.org/10.1145/3372938.3372962",
-            "keywords": "AI, patterns, Big Data analytics, IoT, swarm intelligence, decision making",
-            "publisher": "Association for Computing Machinery"
-        },
-        {
             "ID": 17,
             "Title": "BlockBD: A Security Pattern to Incorporate Blockchain in Big Data Ecosystems",
             "Nb of found patterns": 1,
@@ -1738,34 +1632,6 @@
             "document_type": "inproceedings",
             "url": "https://doi.org/10.1145/3361149.3361166",
             "keywords": "security pattern, big data, blockchain",
-            "publisher": "Association for Computing Machinery"
-        },
-        {
-            "ID": 18,
-            "Title": "Securing Physical Assets on the Blockchain: Linking a Novel Object Identification Concept with Distributed Ledgers",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1145/3211933.3211944",
-            "author": "Hepp, Thomas and Wortner, Patrick and Schönhals, Alexander and Gipp, Bela",
-            "year": 2018,
-            "source": "ACM Digital Library",
-            "pages": "60–65",
-            "document_type": "inproceedings",
-            "url": "https://doi.org/10.1145/3211933.3211944",
-            "keywords": "Blockchain, Manufacturing Supply Chain, Traceability System",
-            "publisher": "Association for Computing Machinery"
-        },
-        {
-            "ID": 19,
-            "Title": "Secure and Privacy-Preserving Data Computing Scheme Based on Blockchain for Double-Loop Governance of Smart Society",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1145/3446983.3446995",
-            "author": "Hou, Yujiao and Luo, Mengxiao and Liu, Yutong and Wang, Ning and Zhang, Jinjin and Xu, Weisheng",
-            "year": 2020,
-            "source": "ACM Digital Library",
-            "pages": "75–80",
-            "document_type": "inproceedings",
-            "url": "https://doi.org/10.1145/3446983.3446995",
-            "keywords": "Data privacy protection, Smart society, Blockchain, Secure multi-party computation",
             "publisher": "Association for Computing Machinery"
         },
         {
@@ -1782,34 +1648,6 @@
             "document_type": "article",
             "keywords": "Blockchain,Ethereum,design patterns,gas optimization,gas saving,smart contracts",
             "publisher": "IEEE"
-        },
-        {
-            "ID": 21,
-            "Title": "Design Patterns for Smart Contract in Ethereum",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/ICSA-C52384.2021.00032",
-            "author": "Destefanis, Giuseppe",
-            "journal": "Proceedings 2021 IEEE 18th International Conference on Software Architecture Companion, ICSA-C 2021",
-            "year": 2021,
-            "source": "IEEE Xplore",
-            "pages": "121--122",
-            "document_type": "article"
-        },
-        {
-            "ID": 22,
-            "Title": "Design Pattern as a Service for Blockchain-Based Self-Sovereign Identity",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/MS.2020.2992783",
-            "author": "Liu, Yue and Lu, Qinghua and Paik, Hye Young and Xu, Xiwei and Chen, Shiping and Zhu, Liming",
-            "journal": "IEEE Software",
-            "year": 2020,
-            "source": "IEEE Xplore",
-            "pages": "30--36",
-            "volume": 37,
-            "document_type": "article",
-            "url": "http://arxiv.org/abs/2005.01346",
-            "keywords": "Blockchain,Design Pattern,Identity,Self-Sovereign Identity",
-            "issn": 19374194
         },
         {
             "ID": 23,
@@ -1854,20 +1692,6 @@
             "keywords": "blockchain,digital preservation,distributed ledger,recordkeeping"
         },
         {
-            "ID": 26,
-            "Title": "Design patterns and framework for blockchain integration in supply chains",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/ICBC51069.2021.9461062",
-            "author": "Lamken, Dennis and Wagner, Tobias and Hoiss, Tim and Seidenfad., Karl and Hermann, Andreas and Kus, Mehmet and Lechner, Ulrike",
-            "journal": "2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
-            "year": 2021,
-            "source": "IEEE Xplore",
-            "pages": "1--3",
-            "document_type": "article",
-            "url": "https://ieeexplore.ieee.org/document/9461062/",
-            "publisher": "IEEE"
-        },
-        {
             "ID": 27,
             "Title": "Design Patterns for Smart Contracts in the Ethereum Ecosystem",
             "Nb of found patterns": 12,
@@ -1879,83 +1703,6 @@
             "pages": "1513--1520",
             "document_type": "inproceedings",
             "keywords": "Smart contracts;Blockchain;Security;Encoding;Ecosystems;Programming"
-        },
-        {
-            "ID": 28,
-            "Title": "Design pattern as a service for blockchain applications",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/ICDMW.2018.00025",
-            "author": "Lu, Qinghua and Xu, Xiwei and Liu, Yue and Zhang, Weishan",
-            "year": 2019,
-            "source": "IEEE Xplore",
-            "pages": "128--135",
-            "volume": "2018-November",
-            "document_type": "inproceedings",
-            "keywords": "architecture,blockchain,blockchain as a service,design pattern,smart contract",
-            "issn": 23759259
-        },
-        {
-            "ID": 29,
-            "Title": "Tracking GDPR Compliance in Cloud-based Service Delivery",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/tsc.2020.2999559",
-            "author": "Barati, Masoud and Rana, Omer",
-            "journal": "IEEE Transactions on Services Computing",
-            "year": 2020,
-            "source": "IEEE Xplore",
-            "pages": "1--1",
-            "document_type": "article",
-            "keywords": "Blockchain;Smart contracts;General Data Protection Regulation;Law;Cloud computing;user privacy;cloud security;blockchain;smart contracts;general data protection regulation",
-            "issn": "1939-1374"
-        },
-        {
-            "ID": 30,
-            "Title": "Architectural Design Decisions for Blockchain-Based Applications",
-            "Identifier": "10.1109/ICBC51069.2021.9461109",
-            "author": "Wöhrer, Maximilian and Zdun, Uwe",
-            "year": 2021,
-            "source": "IEEE Xplore",
-            "pages": "1--5",
-            "document_type": "inproceedings",
-            "url": "http://eprints.cs.univie.ac.at/6815/",
-            "keywords": "Privacy;Software architecture;Scalability;Decision making;Blockchain;Computer architecture;Usability;blockchain;software architecture;decentralized application;DApp;smart contract;design pattern"
-        },
-        {
-            "ID": 31,
-            "Title": "How to Disclose Selective Information from Permissioned DLT-Based Traceability Systems?",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/DAPPS49028.2020.00020",
-            "author": "Schinle, Markus and Erler, Christina and Vetter, Adrian Rudolf and Stork, Wilhelm",
-            "year": 2020,
-            "source": "IEEE Xplore",
-            "pages": "153--158",
-            "document_type": "inproceedings",
-            "keywords": "Blockchain,Competitor Analysis,Distributed Ledger Technology,Sensitive Data,Supply Chain,Traceability"
-        },
-        {
-            "ID": 32,
-            "Title": "From Domain-Specific Language to Code: Smart Contracts and the Application of Design Patterns",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/MS.2020.2993470",
-            "author": "Wohrer, Maximilian and Zdun, Uwe",
-            "journal": "IEEE Software",
-            "year": 2020,
-            "source": "IEEE Xplore",
-            "pages": "37--42",
-            "volume": 37,
-            "document_type": "article",
-            "issn": 19374194
-        },
-        {
-            "ID": 33,
-            "Title": "Security checklists for ethereum smart contract development: patterns and best practices",
-            "Nb of found patterns": 0,
-            "Identifier": "https://arxiv.org/abs/2008.04761",
-            "author": "Marchesi, Lodovica and Marchesi, Michele, and Pompianu, Livio and Tonelli, Roberto",
-            "journal": "arXiv.org",
-            "year": 2020,
-            "source": "N/A",
-            "document_type": "preprint"
         },
         {
             "ID": 34,
@@ -2033,200 +1780,6 @@
             "source": "N/A",
             "document_type": "inproceedings",
             "url": "https://link.springer.com/chapter/10.1007/978-3-030-58779-6_3"
-        },
-        {
-            "ID": 40,
-            "Title": "A decision model for choosing patterns in blockchain-based applications",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/ICSA51549.2021.00013",
-            "Identifier type": "DOI",
-            "author": "Xu, Xiwei and Bandara, HMN Dilum and Lu, Qinghua and Weber, Ingo and Bass, Len and Zhu, Liming",
-            "journal": "2021 IEEE 18th International Conference on Software Architecture (ICSA)",
-            "year": 2021,
-            "source": "N/A",
-            "document_type": "inproceedings",
-            "url": "https://ieeexplore.ieee.org/abstract/document/9426788"
-        },
-        {
-            "ID": 41,
-            "Title": "A Pattern Adherence Analysis to a Blockchain Web Application",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1109/ICSA-C50368.2020.00028",
-            "Identifier type": "DOI",
-            "author": "Abreu, Antonio Welligton and Coutinho, Emanuel F.",
-            "journal": "2020 IEEE International Conference on Software Architecture Companion (ICSA-C)",
-            "year": 2020,
-            "source": "N/A",
-            "document_type": "inproceedings",
-            "url": "https://ieeexplore.ieee.org/abstract/document/9095738"
-        },
-        {
-            "ID": 42,
-            "Title": "A Pattern Sequence for Designing Blockchain-Based Healthcare Information Technology Systems",
-            "Nb of found patterns": 0,
-            "Identifier": "https://arxiv.org/abs/2010.01172",
-            "Identifier type": "Arxiv",
-            "author": "Zhang, Peng and Schmidt, Douglas C and White, Jules",
-            "journal": "arXiv.org",
-            "year": 2020,
-            "source": "N/A",
-            "document_type": "preprint",
-            "url": "https://arxiv.org/abs/2010.01172"
-        },
-        {
-            "ID": 43,
-            "Title": "Blockchain Oracle Design Patterns",
-            "Nb of found patterns": 0,
-            "Identifier": "https://arxiv.org/abs/2106.09349",
-            "Identifier type": "Arxiv",
-            "author": "Amirmohammad Pasdar and Zhongli Dong and Young Choon Lee",
-            "journal": "arXiv.org",
-            "year": 2021,
-            "source": "N/A",
-            "document_type": "preprint",
-            "url": "https://arxiv.org/abs/2106.09349"
-        },
-        {
-            "ID": 44,
-            "Title": "Community blockchain interaction patterns",
-            "Nb of found patterns": 0,
-            "year": 2019,
-            "source": "N/A",
-            "document_type": "mastersthesis",
-            "url": "https://repositum.tuwien.at/bitstream/20.500.12708/8603/2/Sengstschmid%20Martina%20-%202019%20-%20Community%20blockchain%20interaction%20patterns.pdf"
-        },
-        {
-            "ID": 45,
-            "Title": "Demonstrating the importance of well-defined design patterns in smart contract development",
-            "Nb of found patterns": 0,
-            "author": "Verdonck, Michaël",
-            "journal": "International workshop on Value modeling and business ontologies",
-            "year": 2019,
-            "source": "N/A",
-            "document_type": "inproceedings",
-            "url": "https://www.researchgate.net/publication/331563814_Demonstrating_the_importance_of_well-defined_design_patterns_in_smart_contract_development"
-        },
-        {
-            "ID": 46,
-            "Title": "Design of blockchain-based apps using familiar software patterns with a healthcare focus",
-            "Nb of found patterns": 0,
-            "Identifier": "10.5555/3290281.3290304",
-            "Identifier type": "DOI",
-            "author": "Zhang, Peng and White, Jules and Schmidt, Douglas C. and Lenz, Gunther",
-            "journal": "Proceedings of the 24th Conference on Pattern Languages of Programs",
-            "year": 2017,
-            "source": "N/A",
-            "document_type": "inproceedings",
-            "url": "https://dl.acm.org/doi/abs/10.5555/3290281.3290304"
-        },
-        {
-            "ID": 47,
-            "Title": "Design Patterns for Blockchain-Based Payment Applications",
-            "Nb of found patterns": 0,
-            "Identifier": "https://arxiv.org/abs/2102.09810",
-            "Identifier type": "Arxiv",
-            "author": "Lu, Qinghua and Xu, Xiwei and Bandara, HMN and Chen, Shiping and Zhu, Liming",
-            "journal": "arXiv.org",
-            "year": 2021,
-            "source": "N/A",
-            "document_type": "preprint",
-            "url": "https://arxiv.org/abs/2102.09810"
-        },
-        {
-            "ID": 48,
-            "Title": "Design Patterns for Blockchain-based Smart Contracts Organizations",
-            "Nb of found patterns": 0,
-            "Identifier": "10.13140/RG.2.2.35215.20648",
-            "Identifier type": "DOI",
-            "author": "Velosoa, Alan and Abelemb, Antonio and Saraivaa, Filipe",
-            "journal": "Researchgate.com",
-            "year": 2020,
-            "source": "N/A",
-            "document_type": "preprint",
-            "url": "https://www.researchgate.net/publication/344476119_Design_Patterns_for_Blockchain-based_Smart_Contracts_Organizations"
-        },
-        {
-            "ID": 49,
-            "Title": "Design patterns for Ethereum smart contracts",
-            "Nb of found patterns": 0,
-            "author": "Moura, Tiago Augusto Pinto",
-            "year": 2020,
-            "source": "N/A",
-            "document_type": "mastersthesis",
-            "url": "https://recipp.ipp.pt/bitstream/10400.22/16441/1/DM_TiagoMoura_2020_MEI.pdf"
-        },
-        {
-            "ID": 50,
-            "Title": "Impact of Design Patterns on Code Quality in Blockchain-based Applications",
-            "Nb of found patterns": 0,
-            "author": "Thirulokachander, Vijay Rajasekar",
-            "year": 2021,
-            "source": "N/A",
-            "document_type": "mastersthesis",
-            "url": "https://www.proquest.com/openview/21296d2ff2764b2c3ec0640e14933b06/1?pq-origsite=gscholar&cbl=18750&diss=y"
-        },
-        {
-            "ID": 51,
-            "Title": "Modeling Reliable Intelligent Blockchain with Architectural Pattern",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1007/978-3-030-33582-3_105",
-            "Identifier type": "DOI",
-            "author": "Ho, Sin-Ban and Ahmad, Nur Azyyati and Chai, Ian and Tan, Chuie-Hong and Chean, Swee-Ling",
-            "journal": "Emerging Trends in Intelligent Computing and Informatics",
-            "year": 2020,
-            "source": "N/A",
-            "pages": "1122--1131",
-            "document_type": "inproceedings",
-            "url": "https://link.springer.com/chapter/10.1007/978-3-030-33582-3_105"
-        },
-        {
-            "ID": 52,
-            "Title": "On Refining Design Patterns for Smart Contracts",
-            "Nb of found patterns": 0,
-            "Identifier": "10.1007/978-3-030-48340-1_18",
-            "Identifier type": "DOI",
-            "author": "Zecchini, Marco and Bracciali, Andrea and Chatzigiannakis, Ioannis and Vitaletti, Andrea",
-            "journal": "Euro-Par 2019: Parallel Processing Workshops",
-            "year": 2020,
-            "source": "N/A",
-            "pages": "228--239",
-            "document_type": "inproceedings",
-            "url": "https://link.springer.com/chapter/10.1007/978-3-030-48340-1_18"
-        },
-        {
-            "ID": 53,
-            "Title": "Patterns for blockchain migration",
-            "Nb of found patterns": 0,
-            "author": "Bandara, Dilum and Xu, Xiwei and Weber, Ingo",
-            "journal": "Central European Conference on Information and Intelligent Systems",
-            "year": 2019,
-            "source": "N/A",
-            "document_type": "preprint",
-            "url": "https://www.researchgate.net/publication/333600904_Patterns_for_Blockchain_Migration"
-        },
-        {
-            "ID": 54,
-            "Title": "Towards a Comprehensive Catalog of Architectural and Design Patterns for Blockchain-Based Applications-A Literature Review",
-            "Nb of found patterns": 0,
-            "author": "Gasparič, Marko and Turkanović, Muhamed and Heričko, Marjan",
-            "year": 2020,
-            "source": "N/A",
-            "document_type": "inproceedings",
-            "url": "https://www.proquest.com/openview/3122b6b311fbbb04cc906f603ee067ab/1?pq-origsite=gscholar&cbl=1986354"
-        },
-        {
-            "ID": 55,
-            "Title": "Using Coq to Enforce the Checks-Effects-Interactions Pattern in DeepSEA Smart Contracts (Short Paper)",
-            "Nb of found patterns": 0,
-            "Identifier": "10.4230/OASIcs.FMBC.2021.3",
-            "Identifier type": "DOI",
-            "author": "Britten, Daniel and Sj\\\"{o}berg, Vilhelm and Reeves, Steve",
-            "journal": "Open Access Series in Informatics (OASIcs)",
-            "year": 2021,
-            "source": "N/A",
-            "pages": "3:1--3:8",
-            "document_type": "inproceedings",
-            "url": "https://drops.dagstuhl.de/opus/volltexte/2021/15427/"
         }
     ],
     "Proposals": [
