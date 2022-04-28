@@ -505,7 +505,7 @@
             "Applicability domain (generalized)": "Identity management"
         },
         {
-            "Name": "Delegate List",
+            "Name": "Identifier Registry",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
             "Category": "On-chain pattern",
