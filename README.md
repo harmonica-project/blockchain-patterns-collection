@@ -16,3 +16,7 @@ In this file, you will find 7 sheets:
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
+## Cite our work
+
+Nicolas Six, Nicolas Herbaut, Camille Salinesi, "Blockchain software patterns for the design of decentralized applications: A systematic literature review." Blockchain: Research and Applications, 2022. [https://doi.org/10.1016/j.bcra.2022.100061](OpenAccess https://doi.org/10.1016/j.bcra.2022.100061)
+
