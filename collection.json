@@ -1318,7 +1318,7 @@
             "Applicability domain (generalized)": "General"
         },
         {
-            "Name": "Nicolas’ Definitive pattern",
+            "Name": "Nicolas Pattern",
             "Type (from paper)": "Design pattern",
             "Type (determined)": "Design pattern",
             "Category": "Nicolas’s types",
@@ -4284,7 +4284,7 @@
         },
         {
             "ID": "161",
-            "Name": "Nicolas’s Pattern",
+            "Name": "Nicolas Pattern",
             "Paper": "40",
             "Context & Problem": "in a particular context, it fixes a particular pb",
             "Solution": "clever yet intuitive",
