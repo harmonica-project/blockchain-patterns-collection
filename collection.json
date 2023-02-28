@@ -1316,6 +1316,17 @@
             "Target (generalized)": "Smart-contract enabled blockchains",
             "Language (generalized)": "Unspecified",
             "Applicability domain (generalized)": "General"
+        },
+        {
+            "Name": "Nicolas’ Definitive pattern",
+            "Type (from paper)": "Design pattern",
+            "Type (determined)": "Design pattern",
+            "Category": "Nicolas’s types",
+            "Subcategory": "Data exchange pattern",
+            "Introduced in (paper ID)": "161",
+            "Target (generalized)": "Solana",
+            "Language (generalized)": "Unspecified",
+            "Applicability domain (generalized)": "General"
         }
     ],
     "Papers": [
@@ -1594,6 +1605,17 @@
             "source": "N/A",
             "document_type": "inproceedings",
             "url": "https://link.springer.com/chapter/10.1007/978-3-030-58779-6_3"
+        },
+        {
+            "ID": "40",
+            "Title": "Nicolas’s paper",
+            "Nb of found patterns": "1",
+            "Identifier": "10.1109/ACCESS.2023.3235838",
+            "Identifier type": "DOI",
+            "author": "Nicolas & Nicolas",
+            "journal": "IEEE Access",
+            "year": "2023",
+            "source": "IEEE Xplore"
         }
     ],
     "Proposals": [
@@ -4257,6 +4279,25 @@
             "Subcategory": "Smart-contract pattern",
             "Subsubcategory (optional)": "Contract access control pattern",
             "Target": "Smart-contract enabled blockchains",
+            "Language": "Unspecified",
+            "Applicability domain": "General"
+        },
+        {
+            "ID": "161",
+            "Name": "Nicolas’s Pattern",
+            "Paper": "40",
+            "Context & Problem": "in a particular context, it fixes a particular pb",
+            "Solution": "clever yet intuitive",
+            "Application examples": "all SI",
+            "Type (from paper)": "Design pattern",
+            "Type (determined)": "Design pattern",
+            "Category": "Nicolas’s types",
+            "Subcategory": "Data exchange pattern",
+            "Related to": "145, 101",
+            "Variant of": "75",
+            "Requires": "101",
+            "Based on non-blockchain pattern": "Decorator",
+            "Target": "Solana",
             "Language": "Unspecified",
             "Applicability domain": "General"
         }
